@@ -17,7 +17,7 @@ body {
   font-size: 1.6rem;
   font-family: 'Inter', sans-serif;
   color: var(--secondary-color);
-  background-image: url(./assets/background-image.png);
+  background-image: url(https://github.com/Amandatec/jornada-do-zero-a-primeira-vaga/blob/main/assets/background-image.png?raw=true);
   background-size: cover;
   background-position: center;
 }
